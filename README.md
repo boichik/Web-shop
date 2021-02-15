@@ -1,4 +1,21 @@
-# web-shop
+# web-shop | Интернет-магазин обуви на Vue.js | Shoes store created with Vue.js
+![Site anim](/anim.gif)
+
+## Стек | Stack
+* Vue.js
+* Sass
+* HTML
+
+## Плагины | Plugins
+* vue-meta
+* vue2-touch-events
+* vuelidate
+* vue-html2pdf
+* firebase
+* animated-scroll-to
+
+![Devices Mockup](/web-shop.png)
+
 
 ## Project setup
 ```
